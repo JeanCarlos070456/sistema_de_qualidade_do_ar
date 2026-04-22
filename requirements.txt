@@ -7,4 +7,4 @@ openpyxl==3.1.5
 kaleido==0.2.1
 reportlab==4.2.2
 requests==2.32.3
-pillow
+pillow==10.4.0
